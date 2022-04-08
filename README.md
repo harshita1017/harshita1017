@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: I am a big marvel fan and love Greek and Roman mythology (credits: Percy Jackson by Rick Riordan). Also books are my life🤩😊 -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... --> -->
+<!-- - 💬 Ask me about ... --> 
 <h1 align="center">Hi 👋, I'm Harshita Rathee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
