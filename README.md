@@ -1,39 +1,15 @@
-<!-- ### Hi there 👋
 
-<!--
-**harshita1017/harshita1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<!-- - 🔭 I’m currently working on ML/AI and Web development -->
-<!-- - 🌱 I’m currently learning Web deveopment -->
-<!-- - 📫 How to reach me: Connect with me on LinkedIn: www.linkedin.com/in/harshita-rathee/ -->
-<!-- - 😄 Pronouns: she/her -->
-<!-- - ⚡ Fun fact: I am a big marvel fan and love Greek and Roman mythology (credits: Percy Jackson by Rick Riordan). Also books are my life🤩😊 -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... --> 
 <h1 align="center">Hi 👋, I'm Harshita Rathee</h1>
 
-<!--<h3 align="center">A passionate developer from India</h3> --> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita1017&label=Profile%20views&color=0e75b6&style=flat" alt="harshita1017" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshita_rathee" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_rathee?logo=twitter&style=for-the-badge" alt="harshita_rathee" /></a> </p>
 
-<!-- - 🌱 I’m currently learning **Web Development** --> 
-
 - 🤖 More about me [https://harshita1017.github.io](https://harshita1017.github.io)
-
 - 📫 How to reach me [https://www.linkedin.com/in/Harshita-rathee](https://www.linkedin.com/in/Harshita-rathee)
-
 - ⚡ Fun fact **Love books🤩😊**
 - 📝 I regularly write articles on [https://medium.com/@harshita10.17](https://medium.com/@harshita10.17)
-
 - 💬 Ask me about **Numpy, Pandas, Tensorflow**
-<!-- ### Blogs posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
