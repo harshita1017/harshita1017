@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/harshita_rathee" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_rathee?logo=twitter&style=for-the-badge" alt="harshita_rathee" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+<!-- - 🌱 I’m currently learning **Web Development** --> 
 
+- 🤖 More about me [https://harshita1017.github.io](https://harshita1017.github.io)
+
+- 📫 How to reach me [https://www.linkedin.com/in/Harshita-rathee](https://www.linkedin.com/in/Harshita-rathee)
+
+- ⚡ Fun fact **Love books🤩😊**
 - 📝 I regularly write articles on [https://medium.com/@harshita10.17](https://medium.com/@harshita10.17)
 
 - 💬 Ask me about **Numpy, Pandas, Tensorflow**
-
-- 📫 How to reach me **harshita10.17@gmail.com**
-
-- ⚡ Fun fact **I am a big marvel fan and love Greek and Roman mythology (credits: Percy Jackson by Rick Riordan). Also books are my life🤩😊**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
